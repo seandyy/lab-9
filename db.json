@@ -59,31 +59,31 @@
     "users": [
         {
             "id": 0,
-            "name": "Someone"
+            "name": "Hanna"
         },
         {
             "id": 1,
-            "name": "Someone"
+            "name": "Albin"
         },
         {
             "id": 2,
-            "name": "Someone"
+            "name": "Clara"
         },
         {
             "id": 3,
-            "name": "Someone"
+            "name": "Ylva"
         },
         {
             "id": 4,
-            "name": "Someone"
+            "name": "Mimmi"
         },
         {
             "id": 5,
-            "name": "Someone"
+            "name": "Elsa"
         },
         {
             "id": 6,
-            "name": "Someone"
+            "name": "Alex"
         },
         {
             "id": 7,
@@ -91,11 +91,11 @@
         },
         {
             "id": 8,
-            "name": "Someone"
+            "name": "Robert"
         },
         {
             "id": 9,
-            "name": "Someone"
+            "name": "Jasper"
         }
     ]
 }
