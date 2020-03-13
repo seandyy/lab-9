@@ -20,8 +20,8 @@
         },
         {
             "id": 3,
-            "title": "Let me introduce myself",
-            "body": "hello im body",
+            "title": "Catapult",
+            "body": "A song by the Arctic Monkeys about a guy that's so attractive every girl falls for him even though he's a douche",
             "user_id": 3
         },
         {
@@ -38,26 +38,26 @@
         },
         {
             "id": 6,
-            "title": "hello",
-            "body": "hello im body",
+            "title": "Friday the 13th",
+            "body": "The Corona Virus is spreading. People are hoarding. The apocalypse is near.",
             "user_id": 6
         },
         {
             "id": 7,
-            "title": "My first post",
-            "body": "hello im body",
+            "title": "Everybody wants to rule the world",
+            "body": "A song by Tears For Fears released in 1985",
             "user_id": 7        
         },
         {
             "id": 8,
-            "title": "My second post",
-            "body": "hello im body",
+            "title": "Internet",
+            "body": "Why is my internet constantly bothering me? I cannor play my music on spotify...",
             "user_id": 8
         },
         {
             "id": 9,
-            "title": "hello",
-            "body": "hello im body",
+            "title": "Hello there",
+            "body": "General Kenobi...",
             "user_id": 9
         }
     ],
@@ -65,52 +65,52 @@
         {
             "id": 0,
             "name": "Hannah",
-            "email":"hannah@montana.se"
+            "email":"hannah@montana.com"
         },
         {
             "id": 1,
             "name": "Albin",
-            "email":"hannah@montana.se"
+            "email":"albin@1337.se"
         },
         {
             "id": 2,
             "name": "Clara",
-            "email":"hannah@montana.se"
+            "email":"clara@fardigago.se"
         },
         {
             "id": 3,
             "name": "Ylva",
-            "email":"hannah@montana.se"
+            "email":"ylvis@fox.no"
         },
         {
             "id": 4,
             "name": "Mimmi",
-            "email":"hannah@montana.se"
+            "email":"mimmi@disney.com"
         },
         {
             "id": 5,
             "name": "Elsa",
-            "email":"hannah@montana.se"
+            "email":"elsa@frozen.no"
         },
         {
             "id": 6,
             "name": "Alex",
-            "email":"hannah@montana.se"
+            "email":"alex@turner.uk"
         },
         {
             "id": 7,
             "name": "Bror",
-            "email":"hannah@montana.se"
+            "email":"bror@broder.se"
         },
         {
             "id": 8,
-            "name": "Robert",
-            "email":"hannah@montana.se"
+            "name": "Edward",
+            "email":"edward@blom.se"
         },
         {
             "id": 9,
-            "name": "Jasper",
-            "email":"hannah@montana.se"
+            "name": "Urban",
+            "email":"urban@ears.nu"
         }
     ]
 }
