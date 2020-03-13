@@ -64,43 +64,53 @@
     "users": [
         {
             "id": 0,
-            "name": "Hanna"
+            "name": "Hanna",
+            "email":""
         },
         {
             "id": 1,
-            "name": "Albin"
+            "name": "Albin",
+            "email":""
         },
         {
             "id": 2,
-            "name": "Clara"
+            "name": "Clara",
+            "email":""
         },
         {
             "id": 3,
-            "name": "Ylva"
+            "name": "Ylva",
+            "email":""
         },
         {
             "id": 4,
-            "name": "Mimmi"
+            "name": "Mimmi",
+            "email":""
         },
         {
             "id": 5,
-            "name": "Elsa"
+            "name": "Elsa",
+            "email":""
         },
         {
             "id": 6,
-            "name": "Alex"
+            "name": "Alex",
+            "email":""
         },
         {
             "id": 7,
-            "name": "Bror"
+            "name": "Bror",
+            "email":""
         },
         {
             "id": 8,
-            "name": "Robert"
+            "name": "Robert",
+            "email":""
         },
         {
             "id": 9,
-            "name": "Jasper"
+            "name": "Jasper",
+            "email":""
         }
     ]
 }
