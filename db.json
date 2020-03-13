@@ -2,14 +2,14 @@
     "posts": [
         {
             "id": 0,
-            "title": "Day 23 in the chamber, they haven't found me yet but when they do, they gon' be surprised.",
-            "body": "hello im body",
+            "title": "Day 23 in the chamber",
+            "body": "They haven't found me yet but when they do, they gon' be surprised.",
             "user_id": 0
         },
         {
             "id": 1,
-            "title": "Hello my name is Albin and I love using tiktok. My best friend is Alva who reads a lot of books.",
-            "body": "hello im body",
+            "title": "Dear diary",
+            "body": "I turned 43 today",
             "user_id": 1
         },
         {
