@@ -1,0 +1,101 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "My first post",
+            "user_id": 0
+        },
+        {
+            "id": 1,
+            "title": "My introduction",
+            "user_id": 0
+        },
+        {
+            "id": 2,
+            "title": "Hi",
+            "user_id": 1
+        },
+        {
+            "id": 3,
+            "title": "Let me introduce myself",
+            "user_id": 1
+        },
+        {
+            "id": 4,
+            "title": "hello",
+            "user_id": 1
+        },
+        {
+            "id": 5,
+            "title": "hello",
+            "user_id": 3
+        },
+        {
+            "id": 6,
+            "title": "hello",
+            "user_id": 4
+        },
+        {
+            "id": 7,
+            "title": "My first post",
+            "user_id": 5
+        },
+        {
+            "id": 8,
+            "title": "My second post",
+            "user_id": 5
+        },
+        {
+            "id": 9,
+            "title": "hello",
+            "user_id": 8
+        },
+        {
+            "id": 10,
+            "title": "hello",
+            "user_id": 9
+        },
+    ],
+    "users": [
+        {
+            "id": 0,
+            "name": "Someone"
+        },
+        {
+            "id": 1,
+            "name": "Someone"
+        },
+        {
+            "id": 2,
+            "name": "Someone"
+        },
+        {
+            "id": 3,
+            "name": "Someone"
+        },
+        {
+            "id": 4,
+            "name": "Someone"
+        },
+        {
+            "id": 5,
+            "name": "Someone"
+        },
+        {
+            "id": 6,
+            "name": "Someone"
+        },
+        {
+            "id": 7,
+            "name": "Someone"
+        },
+        {
+            "id": 8,
+            "name": "Someone"
+        },
+        {
+            "id": 9,
+            "name": "Someone"
+        }
+    ]
+}
