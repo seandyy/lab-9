@@ -3,56 +3,61 @@
         {
             "id": 0,
             "title": "Day 23 in the chamber, they haven't found me yet but when they do, they gon' be surprised.",
+            "body": "",
             "user_id": 0
         },
         {
             "id": 1,
             "title": "Hello my name is Hanna and I love using tiktok. My best friend is Alva who reads a lot of books.",
-            "user_id": 0
+            "body": "",
+            "user_id": 1
         },
         {
             "id": 2,
             "title": "*Chomp chomp* I think Moto Moto likes you.",
-            "user_id": 1
+            "body": "",
+            "user_id": 2
         },
         {
             "id": 3,
             "title": "Let me introduce myself",
-            "user_id": 1
+            "body": "",
+            "user_id": 3
         },
         {
             "id": 4,
             "title": "hello",
-            "user_id": 1
+            "body": "",
+            "user_id": 4
         },
         {
             "id": 5,
             "title": "hello",
-            "user_id": 3
+            "body": "",
+            "user_id": 5
         },
         {
             "id": 6,
             "title": "hello",
-            "user_id": 4
+            "body": "",
+            "user_id": 6
         },
         {
             "id": 7,
             "title": "My first post",
-            "user_id": 5
+            "body": "",
+            "user_id": 7        
         },
         {
             "id": 8,
             "title": "My second post",
-            "user_id": 5
+            "body": "",
+            "user_id": 8
         },
         {
             "id": 9,
             "title": "hello",
-            "user_id": 8
-        },
-        {
-            "id": 10,
-            "title": "hello",
+            "body": "",
             "user_id": 9
         }
     ],
